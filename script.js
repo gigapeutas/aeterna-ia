@@ -7,7 +7,7 @@
 
 // ─── CONFIGURAÇÃO ────────────────────────────────────────────
 // ⚠️ Substitua pela URL real do seu webhook de produção no n8n
-const N8N_WEBHOOK_URL = 'https://SUA_URL_DO_WEBHOOK_DE_PRODUCAO_DO_N8N_AQUI';
+const N8N_WEBHOOK_URL = 'https://aeterna-maestro.onrender.com/webhook/maestro-entrada';
 
 // ─── ELEMENTOS DOM ────────────────────────────────────────────
 const sidebar          = document.getElementById('sidebar');
